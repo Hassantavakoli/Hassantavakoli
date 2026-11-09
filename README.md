@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Hassantavakoli/Hassantavakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                   ===+++++===--::.
+                -----=+++++++++*******
+             ::-++++=++++++++***********
+            :++**+====++*******#####****##                 hassan@oregonstate ------------------------------------------
+          :-++-.....::-======++++**#####*##                Role:.............. Ph.D. Candidate, School of EECS, Oregon State
+          .=:   ...::::::----------=+*######*              Advisors:.......... Bella Bose, Thinh Nguyen
+        ..:    ...:::::-::------------=*%%###%             Graduation:........ 2027
+       .:-  ....:::-:-------------------+%%###%            Prior:............. Assistant/Associate Professor, Univ. of Guilan
+      ::=: .....:::::------:-------------#%####            Education:......... Ph.D. EE (K.N. Toosi), Ph.D. CS (Oregon State)
+      ::= .. .....::.::::::::------------+###%##
+     -.-- ......::::::--:----------------+#%#%%#%          Research.Areas:.... Information Theory, Coding Theory, ML
+     ==-:  ..:-++*++---==+++******++=----+%#%%%%%          Research.Topics:... Information Bottleneck, Polar/LDPC Codes,
+    .+==: -+*#%%%###*===+#%%%%%%%%%%%#*=--*@%%%%%                              Deletion Channels, Finite Blocklength
+    .++=---=+********==++***#######*+**#*+=#%%%%%*         Languages.Human:... Persian, English
+    -#=:--.+#*%#*##+*#=+%**##%##%#*#*+==@+=+*%%%%#         Languages.Code:.... Python, PyTorch, MATLAB, C++, LaTeX
+     :=:--:#+=***#*-*..:=#+**#**#*****==*-=-#%%*+*
+    . =--- .:=+++-:++ :--+*+++++***+==-*=--:=%#*+#         Publications -----------------------------------------------
+    : .=:-..:-=-:.-=  ::--=*+++++++====------#%*+#         Venues:............ IEEE WCL, IEEE Comm. Letters, ITW 2026,
+    -::. .....:.:--  :---:--=*+++====-------:=%**                              ICMLA 2025, JSAIT & ICLR 2027 (under review)
+     .:..  ..::-== .:--==----+*======---------=+*          Scholar.Citations:. 698
+     :.....:--===:=*==++++*#*++=========-----=-==
+      :..:---==-:..-==+***+++======+++=====-==--           Contact ----------------------------------------------------
+      :.:--==-::....:-++++========+=+++=======-            Email:............. tavakolh@oregonstate.edu
+       ..:--=:=+=::-======++++++*##++========-+            Scholar:........... scholar.google.com/citations?user=T3rLMlkAAAAJ
+        ..:::-+#*----==+++++++===++++=======-+             LinkedIn:.......... hassantavakoli
+         :.::-+=....:-==+++++======+++======*              ORCID:............. 0000-0002-5995-4787
+          +::=+-..::-++++++++=======++++==-
+            +-=-.....:::--=----=====++++==
+             %*+-....::-=-=========++++=
+                --::-==++++===++==+===
+                   ++++++++++++++++
